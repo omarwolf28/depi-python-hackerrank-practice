@@ -1,3 +1,5 @@
+[![HackerRank Python 5 Stars](python-5-stars.png)](https://www.hackerrank.com/omarzouk28)
+
 # Python – HackerRank Practice
 
 A collection of solutions to exercises from HackerRank's **Python** track, done as part of the
